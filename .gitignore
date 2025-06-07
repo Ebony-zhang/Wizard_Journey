@@ -1,0 +1,48 @@
+# Unreal Engine Ignore File
+
+# Binaries
+Binaries
+Build
+DerivedDataCache
+Intermediate
+Saved
+BuildBuildLog.txt
+
+# User-specific files
+.sublime-workspace
+.sublime-project
+.xcodeproj
+.xcworkspace
+.vscode
+
+# Compiled Source
+.dll
+.exe
+.lib
+.app
+.dSYM
+.o
+.so
+
+# Configuration files
+.ini
+.user
+.prefs
+.uasset
+.umap
+.pak
+
+# Visual Studio specific files
+.vs
+.sln
+.suo
+.userprefs
+.cache
+.pdb
+.idb
+.ipch
+.iobj
+.obj
+
+# MACOS specific files
+.DS_Store
